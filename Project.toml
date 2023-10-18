@@ -1,7 +1,7 @@
 name = "Dummy1"
 uuid = "f7bc0a32-b501-410f-a5e3-5d2b3b8c0e6f"
 authors = ["Simon Avery <savery@ieee.org> and contributors"]
-version = "1.0.0-DEV"
+version = "1.0.0"
 
 [compat]
 julia = "1"
